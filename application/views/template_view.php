@@ -86,6 +86,7 @@ Modified by VitalySwipe
 							<li><a href="/portfolio">Портфолио</a></li>
 							<li><a href="/hello">Hello</a></li>
 							<li class="last"><a href="/contacts">Контакты</a></li>
+							<li><a href="/belong">belong</a></li>
 						</ul>
 					</div>
 				</div>
